@@ -9,7 +9,7 @@ I build things at the intersection of **AI/ML and software engineering** (agenti
 
 ### 🚀 Projects
 
-- **[Stashwell](https://stashwell.io)** — A personal collection tracker for books, vinyl, CDs & DVDs. Built with Go, SvelteKit & Supabase.
+- **[Stashwell](https://stashwell.io)** — A personal collection tracker for books, vinyl, CDs & DVDs. Built with Go, SvelteKit & Supabase. (Still in alpha)
 - **[alibilge.nl](https://alibilge.nl)** — My personal portfolio site built with SvelteKit.
 - **Huihui-Devstral-Small-2-24B-abliterated** — Alignment-ablated 24B code model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated)
 - **Huihui-GLM-4.6V-Flash-abliterated** — Alignment-ablated 9B vision-language model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-GLM-4.6V-Flash-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-GLM-4.6V-Flash-abliterated)
