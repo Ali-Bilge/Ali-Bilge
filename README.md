@@ -1,5 +1,4 @@
 # Hey, I'm Ali 👋
-
 **Master's Student in Artificial Intelligence** at the University of Amsterdam  
 **Working Student Agentic AI** at AgentsLab
 
@@ -8,36 +7,31 @@ I build things at the intersection of **AI/ML and software engineering** (agenti
 ---
 
 ### 🚀 Projects
-
-- **[Stashwell](https://stashwell.io)** — A personal collection tracker for books, vinyl, CDs & DVDs. Built with Go, SvelteKit & Supabase. (Still in alpha)
+- **[Stashwell](https://stashwell.io)** — A personal collection tracker for books and more. Built with Go, SvelteKit & Supabase. (Still in alpha)
 - **[alibilge.nl](https://alibilge.nl)** — My personal portfolio site built with SvelteKit.
 - **Huihui-Devstral-Small-2-24B-abliterated** — Alignment-ablated 24B code model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated)
 - **Huihui-GLM-4.6V-Flash-abliterated** — Alignment-ablated 9B vision-language model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-GLM-4.6V-Flash-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-GLM-4.6V-Flash-abliterated)
 
 ### 🛠 Tech Stack
-
 **Languages:** Python · Go · TypeScript · JavaScript · SQL · R · Scala · Java · MATLAB · C#  
 **AI/ML:** PyTorch · Bayesian Statistics · Reinforcement Learning · Computer Vision · OpenCV  
 **Frontend:** SvelteKit · Tailwind CSS · HTML/CSS  
 **Backend:** Go · Node.js · Supabase · PostgreSQL · Django  
 **Mobile:** Swift  
-**Infra:** DigitalOcean · Docker · Git · Azure 
-**Data**: Apache Spark · Hadoop 
-**HPC**: Snellius (SURF) · Radboud HPC Cluster 
+**Infra:** DigitalOcean · Docker · Git · Azure  
+**Data:** Apache Spark · Hadoop  
+**HPC:** Snellius (SURF) · Radboud HPC Cluster  
 **Other:** Ollama · Hugging Face
 
 ### 🎓 Education
-
 - **MSc Artificial Intelligence** — University of Amsterdam
 - **BSc Artificial Intelligence** — Radboud University
 
 ### 🌍 Languages
-
 Fluent: 🇳🇱 Dutch · 🇹🇷 Turkish · 🇬🇧 English  
 Conversational: 🇩🇪 German · 🇪🇸 Spanish
 
 ### 🔗 Links
-
 [![Website](https://img.shields.io/badge/alibilge.nl-000?style=flat-square&logo=safari&logoColor=white)](https://alibilge.nl)
 [![Stashwell](https://img.shields.io/badge/stashwell.io-000?style=flat-square&logo=safari&logoColor=white)](https://stashwell.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-e-bilge)
