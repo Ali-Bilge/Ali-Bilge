@@ -20,7 +20,7 @@ I build things at the intersection of **AI/ML and software engineering** (agenti
 **Mobile:** Swift  
 **Infra:** DigitalOcean · Docker · Git · Azure  
 **Data:** Apache Spark · Hadoop  
-**HPC:** Snellius (SURF) · Radboud HPC Cluster  
+**HPC:** Snellius (SURF) · Radboud HPC Science Cluster  
 **Other:** Ollama · Hugging Face
 
 ### 🎓 Education
