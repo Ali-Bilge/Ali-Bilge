@@ -1,6 +1,5 @@
 # Hey, I'm Ali 👋
 **Master's Student in Artificial Intelligence** at the University of Amsterdam  
-**Working Student Agentic AI** at AgentsLab
 
 I build things at the intersection of **AI/ML and software engineering** (agentic systems, tooling, and product-focused apps). Feel free to reach out on LinkedIn!
 
