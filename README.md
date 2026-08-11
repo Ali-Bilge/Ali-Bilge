@@ -7,7 +7,7 @@ I build things at the intersection of **AI/ML and software engineering** (agenti
 
 ### 🚀 Projects
 - **[Stashwell](https://stashwell.io)** — A personal collection tracker for books and more. Built with Go, SvelteKit & Supabase. (Still in alpha)
-- **[alibilge.nl](https://alibilge.nl)** — My personal portfolio site built with SvelteKit.
+- **[alibilge.org](https://alibilge.org)** — My personal portfolio site built with SvelteKit.
 - **Huihui-Devstral-Small-2-24B-abliterated** — Alignment-ablated 24B code model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated)
 - **Huihui-GLM-4.6V-Flash-abliterated** — Alignment-ablated 9B vision-language model · [Hugging Face](https://huggingface.co/AliBilge/Huihui-GLM-4.6V-Flash-abliterated) · [Ollama](https://ollama.com/alibilge/Huihui-GLM-4.6V-Flash-abliterated)
 
@@ -31,7 +31,7 @@ Fluent: 🇳🇱 Dutch · 🇹🇷 Turkish · 🇬🇧 English
 Conversational: 🇩🇪 German · 🇪🇸 Spanish
 
 ### 🔗 Links
-[![Website](https://img.shields.io/badge/alibilge.nl-000?style=flat-square&logo=safari&logoColor=white)](https://alibilge.nl)
+[![Website](https://img.shields.io/badge/alibilge.org-000?style=flat-square&logo=safari&logoColor=white)](https://alibilge.org)
 [![Stashwell](https://img.shields.io/badge/stashwell.io-000?style=flat-square&logo=safari&logoColor=white)](https://stashwell.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-e-bilge)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/AliBilge)
